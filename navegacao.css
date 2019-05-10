@@ -11,6 +11,7 @@ a{
 	padding: 0px;
 	-webkit-transition: width;
 	transition: .5s;
+	margin-bottom: 2%;
 }
 a:hover{
 	background-color: #7cb342;
